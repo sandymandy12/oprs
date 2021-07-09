@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.25">
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\OkHttpCacheSanityTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\chat\ChatMessageManagerTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\config\ChatColorConfigTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\menus\MenuManagerTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\cannon\CannonPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\chatcommands\ChatCommandsPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\chatfilter\ChatFilterPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\chatnotifications\ChatNotificationsPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\cluescrolls\ClueScrollPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\cluescrolls\clues\ThreeStepCrypticClueTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\cluescrolls\clues\hotcold\HotColdLocationTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\cooking\CookingPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\discord\DiscordStateTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\emojis\EmojiPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\examine\ExaminePluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\friendlist\FriendListPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\grandexchange\GrandExchangeOfferSlotTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\grandexchange\GrandExchangePluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\grounditems\GroundItemsPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\hiscore\HiscorePanelTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\idlenotifier\IdleNotifierPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\itemcharges\ItemChargePluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\itemidentification\ItemIdentificationTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\loottracker\LootTrackerPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\npchighlight\NpcIndicatorsPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\opponentinfo\OpponentInfoPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\screenshot\ScreenshotPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\slayer\SlayerPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\specialcounter\SpecialCounterPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\timers\TimersPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\timetracking\farming\FarmingTrackerTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\plugins\xpglobes\XpGlobesPluginTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\ui\ContainableFrameTest.java">
+</file>
+<file name="C:\Users\uberrlit\IdeaProjects\runelite1\runelite-client\src\test\java\net\runelite\client\util\ColorUtilTest.java">
+</file>
+</checkstyle>

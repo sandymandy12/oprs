@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.util.ColorUtilTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:07" hostname="INSTANCE-2" time="0.011">
+  <properties/>
+  <testcase name="colorToHexCode" classname="net.runelite.client.util.ColorUtilTest" time="0.001"/>
+  <testcase name="colorTag" classname="net.runelite.client.util.ColorUtilTest" time="0.002"/>
+  <testcase name="prependColorTag" classname="net.runelite.client.util.ColorUtilTest" time="0.002"/>
+  <testcase name="toHexColor" classname="net.runelite.client.util.ColorUtilTest" time="0.001"/>
+  <testcase name="colorWithAlpha" classname="net.runelite.client.util.ColorUtilTest" time="0.003"/>
+  <testcase name="wrapWithColorTag" classname="net.runelite.client.util.ColorUtilTest" time="0.001"/>
+  <testcase name="colorLerp" classname="net.runelite.client.util.ColorUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

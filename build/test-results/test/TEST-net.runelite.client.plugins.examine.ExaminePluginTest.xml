@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.examine.ExaminePluginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:58" hostname="INSTANCE-2" time="0.154">
+  <properties/>
+  <testcase name="testGetItemPrice" classname="net.runelite.client.plugins.examine.ExaminePluginTest" time="0.154"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

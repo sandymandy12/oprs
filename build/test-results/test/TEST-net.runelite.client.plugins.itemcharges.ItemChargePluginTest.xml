@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" tests="35" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:03" hostname="INSTANCE-2" time="0.245">
+  <properties/>
+  <testcase name="testChemistryBreak2" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.14"/>
+  <testcase name="testChemistryBreak3" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testExpeditiousActivate" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.004"/>
+  <testcase name="testChemistryBreak" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChemistryCheck" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChemistryUsed2" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChemistryUsed3" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testChemistryUsed4" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testRof" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleChargeOne" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleChargeEmpty" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleTeleport" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testSlaughterActivate" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleTeleportOne" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testChemistry1" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testSlaughterCheck1" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.005"/>
+  <testcase name="testChronicleAddFull" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.004"/>
+  <testcase name="testSlaughterBreak" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.004"/>
+  <testcase name="testSlaughterCheck" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.004"/>
+  <testcase name="testChronicleTeleportEmpty" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleAddMultipleCharges" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testRofBreak" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleTeleportFail" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleAddSingleChargeFull" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testRofFull" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testDodgyBreak" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testDodgyCheck" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testDodgyProtect1" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testDodgyProtect" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testExpeditiousBreak" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testExpeditiousCheck" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testRofOne" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.003"/>
+  <testcase name="testChronicleCheckFull" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testChronicleAddSingleCharge" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <testcase name="testExpeditiousCheck1" classname="net.runelite.client.plugins.itemcharges.ItemChargePluginTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

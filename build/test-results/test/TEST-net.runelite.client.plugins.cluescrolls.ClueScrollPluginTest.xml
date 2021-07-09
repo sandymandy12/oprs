@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.cluescrolls.ClueScrollPluginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:56" hostname="INSTANCE-2" time="0.435">
+  <properties/>
+  <testcase name="testLocationHintArrowCleared" classname="net.runelite.client.plugins.cluescrolls.ClueScrollPluginTest" time="0.42"/>
+  <testcase name="testSTASHMarkerPersistence" classname="net.runelite.client.plugins.cluescrolls.ClueScrollPluginTest" time="0.01"/>
+  <testcase name="getGetMirrorPoint" classname="net.runelite.client.plugins.cluescrolls.ClueScrollPluginTest" time="0.003"/>
+  <system-out><![CDATA[2021-07-08 23:14:56 [Test worker] WARN  n.r.c.p.c.clues.HotColdClue - Hot cold solver could not be initialized, clue type is unknown; text: Buried beneath the ground, who knows where it's found. Lucky for you, A man called Reldo may have a clue., npc: Reldo, solution: Speak to Reldo to receive a strange device.
+2021-07-08 23:14:56 [Test worker] WARN  n.r.c.p.c.clues.HotColdClue - Hot cold solver could not be initialized, clue type is unknown; text: Buried beneath the ground, who knows where it's found. Lucky for you, A man called Jorral may have a clue., npc: Jorral, solution: Speak to Jorral to receive a strange device.
+2021-07-08 23:14:56 [Test worker] WARN  n.r.c.p.c.clues.HotColdClue - Hot cold solver could not be initialized, clue type is unknown; text: Buried beneath the ground, who knows where it's found. Lucky for you, A man called Watson may have a clue., npc: Watson, solution: Speak to Watson to receive a strange device.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

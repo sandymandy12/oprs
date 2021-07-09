@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" tests="45" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:53" hostname="INSTANCE-2" time="1.669">
+  <properties/>
+  <testcase name="testWintertodt" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.791"/>
+  <testcase name="testNewPersonalBest" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.019"/>
+  <testcase name="testPersonalBestNoTrailingPeriod" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.019"/>
+  <testcase name="testHsOverallNoPb_Pb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.056"/>
+  <testcase name="testGauntletPersonalBest" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.015"/>
+  <testcase name="testZukNewPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.013"/>
+  <testcase name="testJadNewPbWithLeagueTask" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.013"/>
+  <testcase name="testGauntletNewPersonalBest" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.015"/>
+  <testcase name="testHerbiboar" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.012"/>
+  <testcase name="testAdventurerLogCountersPagePrecise" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.199"/>
+  <testcase name="testAgilityLap" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.019"/>
+  <testcase name="testGauntlet" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.012"/>
+  <testcase name="testAdventurerLogCountersPage2" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.017"/>
+  <testcase name="testBarrows" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.012"/>
+  <testcase name="testKreearra" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.01"/>
+  <testcase name="testDuelArenaWin" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.016"/>
+  <testcase name="testCorruptedGauntlet" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.011"/>
+  <testcase name="testHsOverallPb_NoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.011"/>
+  <testcase name="testGgNewPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.013"/>
+  <testcase name="testZukKill" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.011"/>
+  <testcase name="testTheatreOfBloodStoryMode" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.018"/>
+  <testcase name="testCorporealBeastKill" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.011"/>
+  <testcase name="testTemporossNoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.015"/>
+  <testcase name="testTheatreOfBloodNoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.01"/>
+  <testcase name="testTemporossNewPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.01"/>
+  <testcase name="testAdventureLogCountersPage" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.019"/>
+  <testcase name="testPlayerSkillLookup" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.033"/>
+  <testcase name="testTheatreOfBlood" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.021"/>
+  <testcase name="testCoXKill" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testHsFloorNoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.017"/>
+  <testcase name="testPersonalBest" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testHsGhcKc" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.013"/>
+  <testcase name="testCoXKillNoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testHsOverallNoPb_NoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testHsFloorKc" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testHsFloorPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.008"/>
+  <testcase name="testNotYourAdventureLogCountersPage" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testGgKill" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <testcase name="testJadChallengeNewPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.01"/>
+  <testcase name="testTimeStringToSeconds" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.057"/>
+  <testcase name="testStartupShutdown" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.027"/>
+  <testcase name="testJadChallengeNoPb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.008"/>
+  <testcase name="testHsOverallPb_Pb" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.008"/>
+  <testcase name="testDuelArenaLose" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.008"/>
+  <testcase name="testDuelArenaWin2" classname="net.runelite.client.plugins.chatcommands.ChatCommandsPluginTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

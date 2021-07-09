@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:02" hostname="INSTANCE-2" time="0.468">
+  <properties/>
+  <testcase name="checkCombatLogout" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.366"/>
+  <testcase name="checkAnimationIdle" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.016"/>
+  <testcase name="testSpecRegen" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.009"/>
+  <testcase name="checkCombatReset" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.01"/>
+  <testcase name="testMovementIdle" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.009"/>
+  <testcase name="checkCombatLogoutIdle" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.007"/>
+  <testcase name="checkCombatIdle" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.008"/>
+  <testcase name="testSendOneNotificationForAnimationAndInteract" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.01"/>
+  <testcase name="checkAnimationLogout" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.01"/>
+  <testcase name="checkAnimationReset" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.011"/>
+  <testcase name="doubleNotifyOnMouseReset" classname="net.runelite.client.plugins.idlenotifier.IdleNotifierPluginTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

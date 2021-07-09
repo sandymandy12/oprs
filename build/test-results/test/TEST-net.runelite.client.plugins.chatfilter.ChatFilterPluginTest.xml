@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:55" hostname="INSTANCE-2" time="0.729">
+  <properties/>
+  <testcase name="testChatIcons" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.558"/>
+  <testcase name="testEventRemoveByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.011"/>
+  <testcase name="testEventRemoveByText" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.007"/>
+  <testcase name="testDuplicateChatFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.009"/>
+  <testcase name="testEventCensorMessageByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.007"/>
+  <testcase name="testEventCensorMessageByText" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.007"/>
+  <testcase name="testMessageFromFriendIsFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testMessageFromNonFriendNonFCIsFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.005"/>
+  <testcase name="testMessageFromFriendsChatIsFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testMessageFromFriendsChatIsNotFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testCensorRegex" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testCensorWords" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testCensorWordsByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.003"/>
+  <testcase name="testMessageFromSelfIsNotFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.003"/>
+  <testcase name="testNonPrintableCharacters" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testBrokenRegex" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.005"/>
+  <testcase name="testCaseSensitivity" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testEventCensorWordsByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.009"/>
+  <testcase name="testEventCensorWordsByText" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.008"/>
+  <testcase name="testRemoveMessageByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="textCensorMessageByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.003"/>
+  <testcase name="publicChatFilteredOnDuplicate" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.01"/>
+  <testcase name="testReplayedMessage" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testDuplicateChatCount" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.023"/>
+  <testcase name="testShouldFilterByName" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.004"/>
+  <testcase name="testDuplicateChatFilterIgnoresFormatting" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.008"/>
+  <testcase name="testNoDuplicate" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.006"/>
+  <testcase name="testMessageFromFriendIsNotFiltered" classname="net.runelite.client.plugins.chatfilter.ChatFilterPluginTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

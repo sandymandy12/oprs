@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.cannon.CannonPluginTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:52" hostname="INSTANCE-2" time="0.807">
+  <properties/>
+  <testcase name="addReclaimedCannonballs" classname="net.runelite.client.plugins.cannon.CannonPluginTest" time="0.776"/>
+  <testcase name="addMaxCannonballs" classname="net.runelite.client.plugins.cannon.CannonPluginTest" time="0.011"/>
+  <testcase name="addNotMaxCannonballs" classname="net.runelite.client.plugins.cannon.CannonPluginTest" time="0.009"/>
+  <testcase name="addWrongTypeOfCannonballs" classname="net.runelite.client.plugins.cannon.CannonPluginTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

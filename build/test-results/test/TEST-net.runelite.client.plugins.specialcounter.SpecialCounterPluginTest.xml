@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:06" hostname="INSTANCE-2" time="0.196">
+  <properties/>
+  <testcase name="testSameTick" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.153"/>
+  <testcase name="testReset" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.009"/>
+  <testcase name="testSpecBlock" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.005"/>
+  <testcase name="testUnaggro" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.007"/>
+  <testcase name="testNotificationNotThreshold" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.006"/>
+  <testcase name="testSpecDamage" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.005"/>
+  <testcase name="testNotification" classname="net.runelite.client.plugins.specialcounter.SpecialCounterPluginTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

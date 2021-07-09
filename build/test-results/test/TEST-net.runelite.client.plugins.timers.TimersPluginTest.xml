@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.timers.TimersPluginTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:06" hostname="INSTANCE-2" time="0.588">
+  <properties/>
+  <testcase name="testFullTeleblock" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.148"/>
+  <testcase name="testDivineBastion" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.005"/>
+  <testcase name="testShadowVail" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testImbuedHeartBoostFromDrained" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.098"/>
+  <testcase name="testDivineBattlemage" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testDeathChargeCooldown" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.003"/>
+  <testcase name="testShadowVailCooldown" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.003"/>
+  <testcase name="testCorruptionCooldown" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.006"/>
+  <testcase name="testEndurance" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.006"/>
+  <testcase name="testThrallEnd" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testTransparentChatboxTbRemoved" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testMagicLevelDrain" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.031"/>
+  <testcase name="testNonImbuedHeartBoost" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.002"/>
+  <testcase name="testHalfTeleblock" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testImbuedHeartBoost" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.085"/>
+  <testcase name="testTzhaarTimer" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.021"/>
+  <testcase name="testInfernoTimerStartOffset" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.012"/>
+  <testcase name="testDeathChargeRestore" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testImbuedHeartBoostFromPartialBoost" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.092"/>
+  <testcase name="testThrallCooldown" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.006"/>
+  <testcase name="testArceuusWardCooldown" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testDeathChargeCast" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.005"/>
+  <testcase name="testTransparentChatboxTb" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testDmmFullTb" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testDmmHalfTb" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testArceuusWard" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testThrall" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testMageArena2TbFull" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.004"/>
+  <testcase name="testMageArena2TbHalf" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.003"/>
+  <testcase name="testStamina" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.003"/>
+  <testcase name="testSireStunTimer" classname="net.runelite.client.plugins.timers.TimersPluginTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

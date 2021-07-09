@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.menus.MenuManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:52" hostname="INSTANCE-2" time="0.025">
+  <properties/>
+  <testcase name="testManagedMenuOrder" classname="net.runelite.client.menus.MenuManagerTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

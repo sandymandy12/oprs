@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.chat.ChatMessageManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:47" hostname="INSTANCE-2" time="5.251">
+  <properties/>
+  <testcase name="testDefaultFriendsChatInfoColors" classname="net.runelite.client.chat.ChatMessageManagerTest" time="4.979"/>
+  <testcase name="testPublicIronmanFriendUsernameRecolouring" classname="net.runelite.client.chat.ChatMessageManagerTest" time="0.207"/>
+  <testcase name="testPublicFriendUsernameRecolouring" classname="net.runelite.client.chat.ChatMessageManagerTest" time="0.027"/>
+  <testcase name="testMessageRecoloring" classname="net.runelite.client.chat.ChatMessageManagerTest" time="0.031"/>
+  <system-out><![CDATA[23:14:51,460 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+23:14:51,461 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+23:14:51,461 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/uberrlit/IdeaProjects/runelite1/runelite-client/build/resources/main/logback.xml]
+23:14:51,622 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+23:14:51,634 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+23:14:51,638 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+23:14:51,647 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+23:14:51,685 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+23:14:51,692 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+23:14:51,712 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@869485378 - No compression will be used
+23:14:51,714 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@869485378 - Will use the pattern C:/Users/uberrlit/.openosrs/logs/client_%d{yyyy-MM-dd}.%i.log for the active file
+23:14:51,718 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3f342002 - The date pattern is 'yyyy-MM-dd' from file name pattern 'C:/Users/uberrlit/.openosrs/logs/client_%d{yyyy-MM-dd}.%i.log'.
+23:14:51,718 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3f342002 - Roll-over at midnight.
+23:14:51,735 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3f342002 - Setting initial period to Thu Jul 08 23:14:43 GMT 2021
+23:14:51,736 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3f342002 - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
+23:14:51,736 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3f342002 - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
+23:14:51,740 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+23:14:51,744 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[FILE] - Active log file name: C:\Users\uberrlit/.openosrs/logs/client.log
+23:14:51,744 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[FILE] - File property is set to [C:\Users\uberrlit/.openosrs/logs/client.log]
+23:14:51,746 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+23:14:51,746 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+23:14:51,747 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [FILE] to Logger[ROOT]
+23:14:51,747 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+23:14:51,748 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@7f4d823a - Registering current configuration as safe fallback point
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

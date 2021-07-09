@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:56" hostname="INSTANCE-2" time="0.225">
+  <properties/>
+  <testcase name="testLocalPlayerSelfMention" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.113"/>
+  <testcase name="highlightListTest" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.003"/>
+  <testcase name="testNonMatchedColors" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.021"/>
+  <testcase name="testPrecedingColor" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.006"/>
+  <testcase name="testColor" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.007"/>
+  <testcase name="testEmoji" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.008"/>
+  <testcase name="testLtGt" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.005"/>
+  <testcase name="onChatMessage" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.006"/>
+  <testcase name="testHighlightOwnNameNbsp" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.021"/>
+  <testcase name="testRegexMultiplePatternsMessage" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.006"/>
+  <testcase name="testHighlightOwnName" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.005"/>
+  <testcase name="testPrivateChatOutReturn" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.004"/>
+  <testcase name="testRegexMultiplePatternsWithOnlyOneMatch" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.004"/>
+  <testcase name="testMatchEntireMessage" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.005"/>
+  <testcase name="testStripColor" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.002"/>
+  <testcase name="testFullStop" classname="net.runelite.client.plugins.chatnotifications.ChatNotificationsPluginTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

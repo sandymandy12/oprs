@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:04" hostname="INSTANCE-2" time="0.569">
+  <properties/>
+  <testcase name="testHitpointsLevel99" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.486"/>
+  <testcase name="testHunterLevel2" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.007"/>
+  <testcase name="testClueScroll" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testBarrowsChest" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testBAHighGambleRewardParsing" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.005"/>
+  <testcase name="testTheatreOfBloodHmChest" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.006"/>
+  <testcase name="testChambersOfXericChest" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testQuestParsing" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.007"/>
+  <testcase name="testBAHighGambleScreenshotsDisabled" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.003"/>
+  <testcase name="testTheatreOfBloodSmChest" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testFiremakingLevel9" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testTheatreOfBloodChest" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.005"/>
+  <testcase name="testUntradeableDrop" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testValuableDrop" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.007"/>
+  <testcase name="testNotSoValuableDrop" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <testcase name="testLevelUpScreenshotsDisabled" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.007"/>
+  <testcase name="testAttackLevel70" classname="net.runelite.client.plugins.screenshot.ScreenshotPluginTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

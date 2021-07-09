@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:07" hostname="INSTANCE-2" time="0.352">
+  <properties/>
+  <testcase name="testStatChangesFromBoostDoNotAffectXpGlobes" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.339"/>
+  <testcase name="testVirtualLevelInGlobeIsNotShownByDefault" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.005"/>
+  <testcase name="testGlobeIsNotShownWhenHideMaxAndShowVirtualLevelConfigured" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.002"/>
+  <testcase name="testGlobeIsNotShownWhenHideMaxConfigured" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.001"/>
+  <testcase name="testGlobeIsShownOnXpGainBelowMaxWhenHideMaxConfigured" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.002"/>
+  <testcase name="testVirtualLevelInGlobeIsShownWhenConfigured" classname="net.runelite.client.plugins.xpglobes.XpGlobesPluginTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.ui.ContainableFrameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:07" hostname="INSTANCE-2" time="0.004">
+  <properties/>
+  <testcase name="testJdk8231564" classname="net.runelite.client.ui.ContainableFrameTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.emojis.EmojiPluginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:14:57" hostname="INSTANCE-2" time="0.385">
+  <properties/>
+  <testcase name="testGtLt" classname="net.runelite.client.plugins.emojis.EmojiPluginTest" time="0.266"/>
+  <testcase name="testEmojiUpdateMessage" classname="net.runelite.client.plugins.emojis.EmojiPluginTest" time="0.009"/>
+  <testcase name="testOnChatMessage" classname="net.runelite.client.plugins.emojis.EmojiPluginTest" time="0.11"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

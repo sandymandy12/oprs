@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.runelite.client.plugins.grounditems.GroundItemsPluginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-08T23:15:01" hostname="INSTANCE-2" time="0.616">
+  <properties/>
+  <testcase name="testNotifyHighlightedItem" classname="net.runelite.client.plugins.grounditems.GroundItemsPluginTest" time="0.616"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
